@@ -1,4 +1,6 @@
 # SOLID Principles
-# Single Responsability Principle
+# Single Responsability
 # Open-Closed Principle (open for extension,closed for implementation)
-#
+# Liskov Substitution
+# Interface Segregation
+# Dependency Inversion
